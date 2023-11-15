@@ -1,0 +1,177 @@
+Yangi malumot..
+ID:AED, Name:United Arab Emirates Dirham, Min_size:0.01
+ID:AFN, Name:Afghan Afghani, Min_size:0.01
+ID:ALL, Name:Albanian Lek, Min_size:0.01
+ID:AMD, Name:Armenian Dram, Min_size:0.01
+ID:ANG, Name:Netherlands Antillean Gulden, Min_size:0.01
+ID:AOA, Name:Angolan Kwanza, Min_size:0.01
+ID:ARS, Name:Argentine Peso, Min_size:0.01
+ID:AUD, Name:Australian Dollar, Min_size:0.01
+ID:AWG, Name:Aruban Florin, Min_size:0.01
+ID:AZN, Name:Azerbaijani Manat, Min_size:0.01
+ID:BAM, Name:Bosnia and Herzegovina Convertible Mark, Min_size:0.01
+ID:BBD, Name:Barbadian Dollar, Min_size:0.01
+ID:BDT, Name:Bangladeshi Taka, Min_size:0.01
+ID:BGN, Name:Bulgarian Lev, Min_size:0.01
+ID:BHD, Name:Bahraini Dinar, Min_size:0.001
+ID:BIF, Name:Burundian Franc, Min_size:1
+ID:BMD, Name:Bermudian Dollar, Min_size:0.01
+ID:BND, Name:Brunei Dollar, Min_size:0.01
+ID:BOB, Name:Bolivian Boliviano, Min_size:0.01
+ID:BRL, Name:Real, Min_size:0.01
+ID:BSD, Name:Bahamian Dollar, Min_size:0.01
+ID:BTN, Name:Bhutanese Ngultrum, Min_size:0.01
+ID:BWP, Name:Botswana Pula, Min_size:0.01
+ID:BYN, Name:Belarusian Ruble, Min_size:0.01
+ID:BYR, Name:Belarusian Ruble, Min_size:1
+ID:BZD, Name:Belize Dollar, Min_size:0.01
+ID:CAD, Name:Canadian Dollar, Min_size:0.01
+ID:CDF, Name:Congolese Franc, Min_size:0.01
+ID:CHF, Name:Swiss Franc, Min_size:0.01
+ID:CLF, Name:Unidad de Fomento, Min_size:0.0001
+ID:CLP, Name:Chilean Peso, Min_size:1
+ID:CNY, Name:Chinese Renminbi Yuan, Min_size:0.01
+ID:COP, Name:Colombian Peso, Min_size:0.01
+ID:CRC, Name:Costa Rican Colón, Min_size:0.01
+ID:CUC, Name:Cuban Convertible Peso, Min_size:0.01
+ID:CUP, Name:Cuban Peso, Min_size:0.01
+ID:CVE, Name:Cape Verdean Escudo, Min_size:0.01
+ID:CZK, Name:Czech Koruna, Min_size:0.01
+ID:DJF, Name:Djiboutian Franc, Min_size:1
+ID:DKK, Name:Danish Krone, Min_size:0.01
+ID:DOP, Name:Dominican Peso, Min_size:0.01
+ID:DZD, Name:Algerian Dinar, Min_size:0.01
+ID:EGP, Name:Egyptian Pound, Min_size:0.01
+ID:ETB, Name:Ethiopian Birr, Min_size:0.01
+ID:EUR, Name:Euro, Min_size:0.01
+ID:FJD, Name:Fijian Dollar, Min_size:0.01
+ID:FKP, Name:Falkland Pound, Min_size:0.01
+ID:GBP, Name:British Pound, Min_size:0.01
+ID:GEL, Name:Georgian Lari, Min_size:0.01
+ID:GHS, Name:Ghanaian Cedi, Min_size:0.01
+ID:GIP, Name:Gibraltar Pound, Min_size:0.01
+ID:GMD, Name:Gambian Dalasi, Min_size:0.01
+ID:GNF, Name:Guinean Franc, Min_size:1
+ID:GTQ, Name:Guatemalan Quetzal, Min_size:0.01
+ID:GYD, Name:Guyanese Dollar, Min_size:0.01
+ID:HKD, Name:Hong Kong Dollar, Min_size:0.01
+ID:HNL, Name:Honduran Lempira, Min_size:0.01
+ID:HRK, Name:Croatian Kuna, Min_size:0.01
+ID:HTG, Name:Haitian Gourde, Min_size:0.01
+ID:HUF, Name:Hungarian Forint, Min_size:1
+ID:IDR, Name:Indonesian Rupiah, Min_size:0.01
+ID:ILS, Name:Israeli New Sheqel, Min_size:0.01
+ID:INR, Name:Indian Rupee, Min_size:0.01
+ID:IQD, Name:Iraqi Dinar, Min_size:0.001
+ID:IRR, Name:Iranian Rial, Min_size:0.01
+ID:ISK, Name:Icelandic Króna, Min_size:1
+ID:JMD, Name:Jamaican Dollar, Min_size:0.01
+ID:JOD, Name:Jordanian Dinar, Min_size:0.001
+ID:JPY, Name:Japanese Yen, Min_size:1
+ID:KES, Name:Kenyan Shilling, Min_size:0.01
+ID:KGS, Name:Kyrgyzstani Som, Min_size:0.01
+ID:KHR, Name:Cambodian Riel, Min_size:0.01
+ID:KMF, Name:Comorian Franc, Min_size:1
+ID:KPW, Name:North Korean Won, Min_size:0.01
+ID:KRW, Name:South Korean Won, Min_size:1
+ID:KWD, Name:Kuwaiti Dinar, Min_size:0.001
+ID:KYD, Name:Cayman Islands Dollar, Min_size:0.01
+ID:KZT, Name:Kazakhstani Tenge, Min_size:0.01
+ID:LAK, Name:Lao Kip, Min_size:0.01
+ID:LBP, Name:Lebanese Pound, Min_size:0.01
+ID:LKR, Name:Sri Lankan Rupee, Min_size:0.01
+ID:LRD, Name:Liberian Dollar, Min_size:0.01
+ID:LSL, Name:Lesotho Loti, Min_size:0.01
+ID:LYD, Name:Libyan Dinar, Min_size:0.001
+ID:MAD, Name:Moroccan Dirham, Min_size:0.01
+ID:MDL, Name:Moldovan Leu, Min_size:0.01
+ID:MGA, Name:Malagasy Ariary, Min_size:0.1
+ID:MKD, Name:Macedonian Denar, Min_size:0.01
+ID:MMK, Name:Myanmar Kyat, Min_size:0.01
+ID:MNT, Name:Mongolian Tögrög, Min_size:0.01
+ID:MOP, Name:Macanese Pataca, Min_size:0.01
+ID:MRU, Name:Mauritanian Ouguiya, Min_size:0.1
+ID:MUR, Name:Mauritian Rupee, Min_size:0.01
+ID:MVR, Name:Maldivian Rufiyaa, Min_size:0.01
+ID:MWK, Name:Malawian Kwacha, Min_size:0.01
+ID:MXN, Name:Mexican Peso, Min_size:0.01
+ID:MYR, Name:Malaysian Ringgit, Min_size:0.01
+ID:MZN, Name:Mozambican Metical, Min_size:0.01
+ID:NAD, Name:Namibian Dollar, Min_size:0.01
+ID:NGN, Name:Nigerian Naira, Min_size:0.01
+ID:NIO, Name:Nicaraguan Córdoba, Min_size:0.01
+ID:NOK, Name:Norwegian Krone, Min_size:0.01
+ID:NPR, Name:Nepalese Rupee, Min_size:0.01
+ID:NZD, Name:New Zealand Dollar, Min_size:0.01
+ID:OMR, Name:Omani Rial, Min_size:0.001
+ID:PAB, Name:Panamanian Balboa, Min_size:0.01
+ID:PEN, Name:Peruvian Sol, Min_size:0.01
+ID:PGK, Name:Papua New Guinean Kina, Min_size:0.01
+ID:PHP, Name:Philippine Peso, Min_size:0.01
+ID:PKR, Name:Pakistani Rupee, Min_size:0.01
+ID:PLN, Name:Polish Złoty, Min_size:0.01
+ID:PYG, Name:Paraguayan Guaraní, Min_size:1
+ID:QAR, Name:Qatari Riyal, Min_size:0.01
+ID:RON, Name:Romanian Leu, Min_size:0.01
+ID:RSD, Name:Serbian Dinar, Min_size:0.01
+ID:RUB, Name:Russian Ruble, Min_size:0.01
+ID:RWF, Name:Rwandan Franc, Min_size:1
+ID:SAR, Name:Saudi Riyal, Min_size:0.01
+ID:SBD, Name:Solomon Islands Dollar, Min_size:0.01
+ID:SCR, Name:Seychellois Rupee, Min_size:0.01
+ID:SDG, Name:Sudanese Pound, Min_size:0.01
+ID:SEK, Name:Swedish Krona, Min_size:0.01
+ID:SGD, Name:Singapore Dollar, Min_size:0.01
+ID:SHP, Name:Saint Helenian Pound, Min_size:0.01
+ID:SKK, Name:Slovak Koruna, Min_size:0.01
+ID:SLL, Name:Sierra Leonean Leone, Min_size:0.01
+ID:SOS, Name:Somali Shilling, Min_size:0.01
+ID:SRD, Name:Surinamese Dollar, Min_size:0.01
+ID:SSP, Name:South Sudanese Pound, Min_size:0.01
+ID:STD, Name:São Tomé and Príncipe Dobra, Min_size:0.01
+ID:SVC, Name:Salvadoran Colón, Min_size:0.01
+ID:SYP, Name:Syrian Pound, Min_size:0.01
+ID:SZL, Name:Swazi Lilangeni, Min_size:0.01
+ID:THB, Name:Thai Baht, Min_size:0.01
+ID:TJS, Name:Tajikistani Somoni, Min_size:0.01
+ID:TMT, Name:Turkmenistani Manat, Min_size:0.01
+ID:TND, Name:Tunisian Dinar, Min_size:0.001
+ID:TOP, Name:Tongan Paʻanga, Min_size:0.01
+ID:TRY, Name:Turkish Lira, Min_size:0.01
+ID:TTD, Name:Trinidad and Tobago Dollar, Min_size:0.01
+ID:TWD, Name:New Taiwan Dollar, Min_size:0.01
+ID:TZS, Name:Tanzanian Shilling, Min_size:0.01
+ID:UAH, Name:Ukrainian Hryvnia, Min_size:0.01
+ID:UGX, Name:Ugandan Shilling, Min_size:1
+ID:USD, Name:United States Dollar, Min_size:0.01
+ID:UYU, Name:Uruguayan Peso, Min_size:0.01
+ID:UZS, Name:Uzbekistan Som, Min_size:0.01
+ID:VES, Name:Venezuelan Bolívar Soberano, Min_size:0.01
+ID:VND, Name:Vietnamese Đồng, Min_size:1
+ID:VUV, Name:Vanuatu Vatu, Min_size:1
+ID:WST, Name:Samoan Tala, Min_size:0.01
+ID:XAF, Name:Central African Cfa Franc, Min_size:1
+ID:XAG, Name:Silver (Troy Ounce), Min_size:1
+ID:XAU, Name:Gold (Troy Ounce), Min_size:1
+ID:XCD, Name:East Caribbean Dollar, Min_size:0.01
+ID:XDR, Name:Special Drawing Rights, Min_size:1
+ID:XOF, Name:West African Cfa Franc, Min_size:1
+ID:XPD, Name:Palladium, Min_size:1
+ID:XPF, Name:Cfp Franc, Min_size:1
+ID:XPT, Name:Platinum, Min_size:1
+ID:YER, Name:Yemeni Rial, Min_size:0.01
+ID:ZAR, Name:South African Rand, Min_size:0.01
+ID:ZMK, Name:Zambian Kwacha, Min_size:0.01
+ID:ZMW, Name:Zambian Kwacha, Min_size:0.01
+ID:EEK, Name:Estonian Kroon, Min_size:0.01
+ID:LTL, Name:Lithuanian Litas, Min_size:0.01
+ID:LVL, Name:Latvian Lats, Min_size:0.01
+ID:MRO, Name:Mauritanian Ouguiya, Min_size:0.1
+ID:TMM, Name:Turkmenistani Manat, Min_size:0.01
+ID:ZWD, Name:Zimbabwean Dollar, Min_size:0.01
+ID:VEF, Name:Venezuelan Bolívar, Min_size:0.01
+ID:JEP, Name:Jersey Pound, Min_size:0.01
+ID:GGP, Name:Guernsey Pound, Min_size:0.01
+ID:IMP, Name:Isle of Man Pound, Min_size:0.01
+ID:CNH, Name:Chinese Renminbi Yuan Offshore, Min_size:0.01
+ConsoleApp1.Models.Money
